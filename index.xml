@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soda Can</title>
+    <link>https://edi-chale.github.io/soda-can/</link>
+    <description>Recent content on Soda Can</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://edi-chale.github.io/soda-can/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://edi-chale.github.io/soda-can/about/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://edi-chale.github.io/soda-can/about/</guid>
+      <description>Welcome, do you wanna see a soda can?
+Webmaster: Edi_Chale
+Created: August 06, 2023
+Soda Can is a website that was created using the Hugo Static Site Generator, and hosted on GitHub Pages, also utilizing WSL (Windows Subsystem For Limux), mostly for testing purposes, and posting random blog entries for a variaty of random topics.
+Other than that, I don&amp;rsquo;t have any thing more to say, I&amp;rsquo;ll like to learn a bit more oabout running a website so that I could improve this one, make it a bit more &amp;ldquo;like myself&amp;rdquo;, and that contains the things I like, as well the things I like to do.</description>
+    </item>
+    
+  </channel>
+</rss>
