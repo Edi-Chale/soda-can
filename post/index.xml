@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Soda Can</title>
+    <link>https://edi-chale.github.io/soda-can/post/</link>
+    <description>Recent content in Posts on Soda Can</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edi_Chale 2023</copyright><atom:link href="https://edi-chale.github.io/soda-can/post/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
